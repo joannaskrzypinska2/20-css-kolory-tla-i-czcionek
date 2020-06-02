@@ -1,0 +1,18 @@
+body {
+    background-color: palegoldenrod;
+}
+h1 {
+    background-color: palevioletred;
+}
+p {
+    background-color: peru;
+}
+h2 {
+    background-color: purple;
+}
+ol {
+    background-color: sandybrown;
+}
+h2 + p {
+    background-color: seagreen;
+}
