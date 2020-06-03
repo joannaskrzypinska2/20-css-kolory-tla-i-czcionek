@@ -16,3 +16,18 @@ ol {
 h2 + p {
     background-color: seagreen;
 }
+.item1 {
+    color: palevioletred;
+}
+.item2 {
+    color: greenyellow
+}
+.item3 {
+    color: grey
+}
+.item4 {
+    color: goldenrod
+}
+.item5 {
+    color:seagreen
+}
